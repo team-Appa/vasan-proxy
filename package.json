@@ -1,5 +1,5 @@
 {
-  "name": "shraya-proxy",
+  "name": "vasan-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Team-Katara/Shraya-Proxy.git"
+    "url": "git+https://github.com/team-Appa/vasan-proxy.git"
   },
-  "author": "Shraya",
+  "author": "Vasan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Team-Katara/Shraya-Proxy/issues"
+    "url": "https://github.com/team-Appa/vasan-proxy/issues"
   },
-  "homepage": "https://github.com/Team-Katara/Shraya-Proxy#readme",
+  "homepage": "https://github.com/team-Appa/vasan-proxy#readme",
   "dependencies": {
     "bootstrap": "^4.5.0",
     "cors": "^2.8.5",
